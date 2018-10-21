@@ -9,5 +9,6 @@ public class test {
         System.out.println("小白");
         System.out.println("小黑");
         System.out.println("KK");
+        System.out.println("ooo");
     }
 }
